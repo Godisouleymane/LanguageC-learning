@@ -9,6 +9,8 @@ int main()
 
 	if(age >= 18){
 		printf("Ah vous etes majeur");
+	} else {
+		printf("Vous etes mineur");
 	}
 
 	return 0;
